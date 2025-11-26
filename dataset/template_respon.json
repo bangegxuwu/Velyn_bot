@@ -1,0 +1,20 @@
+{
+    "header_kasih_rekomendasi": [
+        "Kalau kamu nyari anime <b>{criteria}</b>, aku punya nih beberapa rekomendasi anime yang punya genre tersebut 😋",
+        "Baik!, ini aku punya rekomendasi anime yang punya genre <b>{criteria}</b> 😊:",
+        "Bagus!, kamu lagi pengen nonton anime <b>{criteria}</b>, aku punya beberapa rekomendasi yang punya genre tersebut 😊"
+    ],
+    "soft_footer": [
+        "Itu dia rekomendasiku! Semoga kamu suka<br> Kalau mau cari anime genre lain tinggal bilang lagi aja ya 😊",
+        "Itu dia! Semoga cocok ya~<br>Kalau pengen cari anime genre lain, tinggal bilang aja ya 😊"
+    ],
+    "gak_ada_hasil": [
+        "Maaf, aku tidak menemukan anime yang cocok. Coba genre lain aja yuk😄"
+    ],
+    "genre_terlarang": [
+        "Maaf ya, aku gak bisa kasih rekomendasi untuk genre itu 🫣 kita cari anime pake genre lainnya aja yuk ",
+        "Eits maaf ya aku gak bisa cari anime pake genre itu🫣 kita cari anime pake genre lainnya aja"
+    ],
+    "fallback": [
+        "Maaf, aku gak paham sama maksud kamu barusan 😕<br> Coba bilang ''kamu bisa ngapain aja?'' supaya kamu tau apa aja yang bisa ku bisa "    ]
+}
